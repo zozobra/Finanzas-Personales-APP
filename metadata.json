@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Finanzas Personales AI",
+  "description": "Aplicación completa de finanzas para seguimiento de gastos, inversiones y ahorros, dolarizada al valor MEP en tiempo real mediante IA.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Finanzas AI",
+  "short_name": "Finanzas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/google_finance_96dp.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/google_finance_96dp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
