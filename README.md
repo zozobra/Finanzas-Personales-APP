@@ -62,4 +62,4 @@ Esta aplicación funciona bajo una arquitectura **Local-First**.
 *   Para sincronizar entre dispositivos (Notebook <-> Celular), utiliza el botón **Base de Datos > Descargar Backup** y **Restaurar Backup**.
 
 ---
-Desarrollado con ❤️ para gestión financiera personal.
+Desarrollado integramente con Google AI Studio para gestión financiera personal. Es solo una demo, los datos no persisten en ninguna base de datos, solo se mantienen en la memoria del navegador.
